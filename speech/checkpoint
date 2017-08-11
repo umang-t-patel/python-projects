@@ -1,2 +1,0 @@
-model_checkpoint_path: "tflearn.lstm.model"
-all_model_checkpoint_paths: "tflearn.lstm.model"
